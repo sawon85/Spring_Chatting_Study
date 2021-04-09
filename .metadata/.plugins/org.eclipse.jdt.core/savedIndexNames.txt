@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/choesawon/Desktop/2021-1/Spring_Chatting_Study/.metadata/.plugins/org.eclipse.jdt.core
+3294481048.index
