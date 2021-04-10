@@ -25,7 +25,6 @@ INDEX VERSION 1.131+/Users/choesawon/Desktop/2021-1/Spring_Chatting_Study/.metad
 3475776801.index
 1661254850.index
 1398778820.index
-814885199.index
 2773641513.index
 3450815903.index
 854319518.index
